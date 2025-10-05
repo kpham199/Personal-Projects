@@ -4,7 +4,7 @@ A showcase of independent projects I've built outside of coursework to explore n
 
 ---
 
-## Table of Contents:
+## List of Projects:
 - [Seaborne](#featured-project-seaborne)
 
 ---
@@ -18,10 +18,9 @@ An immersive multiplayer pirate game built in **Roblox Studio**, featuring islan
 
 #### Key Features
 - Multiple explorable islands with distinct landscapes  
-- Real-time combat system with health and damage mechanics  
+- Combat system with health and damage mechanics  
 - Ship navigation and sailing controls  
 - Collectible treasure and inventory management  
-- Multiplayer support for cooperative gameplay
 - Shop system
 - Weather system
 - Smooth movement system
