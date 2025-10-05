@@ -26,10 +26,6 @@ An immersive multiplayer pirate game built in **Roblox Studio**, featuring islan
 - Smooth movement system
 - Food consumption system
 
-> ## Sneaks
-> <img width="1674" height="968" alt="image" src="https://github.com/user-attachments/assets/13059d42-ab1d-4b8f-ad65-ca914dd33044" />
-
-
 #### Programming Languages
 - Lua
 - C++
