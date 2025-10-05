@@ -4,6 +4,9 @@ A showcase of independent projects I've built outside of coursework to explore n
 
 ---
 
+## Table of Contents:
+- [Seaborne (Roblox Pirate Game)](#featured-project-seaborne)
+
 ### Featured Project: *Seaborne*
 
 **Status:** Active Development  
