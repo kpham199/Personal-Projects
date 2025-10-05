@@ -5,13 +5,14 @@ A showcase of independent projects I've built outside of coursework to explore n
 ---
 
 ## Table of Contents:
-- [Seaborne (Roblox Pirate Game)](#featured-project-seaborne)
+- [Seaborne](#featured-project-seaborne)
+
+---
 
 ### Featured Project: *Seaborne*
 
 **Status:** Active Development  
 **Started:** *September 2023*  
-**Technologies:** Lua, Roblox Studio, C++
 
 An immersive multiplayer pirate game built in **Roblox Studio**, featuring island exploration, naval combat, and treasure hunting. Players can explore unique environments, engage in sword fights, and command their own ships across the open seas.
 
@@ -30,7 +31,7 @@ An immersive multiplayer pirate game built in **Roblox Studio**, featuring islan
 > <img width="1674" height="968" alt="image" src="https://github.com/user-attachments/assets/13059d42-ab1d-4b8f-ad65-ca914dd33044" />
 
 
-#### Languages Used
+#### Programming Languages
 - Lua
 - C++
 
