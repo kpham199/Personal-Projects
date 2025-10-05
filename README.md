@@ -1,0 +1,1 @@
+A showcase of independent projects I've built outside of coursework to explore new technologies, practice programming skills, and bring creative ideas to life. These projects reflect my passion for game development, automation, and software engineering.
